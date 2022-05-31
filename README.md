@@ -12,6 +12,26 @@ I love to write code in my free times also. I also watch tv series & movies in m
 - ⚡ The interesting but maybe stupid fact is I always learn a lot of things at the same time & switches a lot between different topics instead of focusing on one thing. In my opinion it's stupid, maybe you have different opinion.
 -  ⚡ One more interesting fact is even after 7 years of career I'm trying to push my limits so that I can see myself where can I reach? I have stopped myself first, but now I have sacrificed my comfort zone to see my limits where it can lead me?
 
+My Tech Stack:
+- PHP (Laravel, Codeigniter, Custom)
+- Javascript (Vue.js, React, jQuery, jQuery UI, Bootstrap Calendar, Custom Calendar Plugin, Ajax, JSON, Node.js, Custom)
+- Databases (SQLite, MySQL)
+- HTML
+- CSS (Bootstrap 3-5, Tailwind CSS, Custom)
+- XML
+- REST APIs
+- SOAP
+- Authentication (Basic, Oauth, Oauth 2 and many more)
+- Genesys Cloud
+- Scrapper (Python, PHP, Javascript)
+- Git
+- Azure Pipelines
+- Github Actions
+- Wordpress
+
+Worked a little bit / times ago in:
+- Yii2
+- VB.NET
 
 <p>
   Visitors count<br>
