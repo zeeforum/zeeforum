@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Zartash Zulfiqar**. I'm a **Senior Software Engineer** in DatumSquare IT Services having more than 7 years of experience in **PHP (Laravel, Codeigniter, Custom), JavaScript (Vue.js, React, jQuery, jQuery UI, Bootstrap Calendar, AJAX, JSON), HTML, CSS (Bootstrap 3, Bootstrap 4, Bootstrap 5, Tailwind CSS, Custom).**
+I'm **Zartash Zulfiqar**. I'm a **Senior Software Engineer** at DatumSquare IT Services having more than 7 years of experience in **PHP (Laravel, Codeigniter, Custom), JavaScript (Vue.js, React, jQuery, jQuery UI, Bootstrap Calendar, AJAX, JSON), HTML, CSS (Bootstrap 3, Bootstrap 4, Bootstrap 5, Tailwind CSS, Custom).**
 
 I love to write code in my free times also. I also watch tv series & movies in my free time. I love to read books related to history, funny, spy & suspense. 
 
