@@ -4,91 +4,41 @@ I'm **Zartash Zulfiqar**. I'm a **Senior Software Engineer** at DatumSquare IT S
 
 I love to write code in my free times also. I also watch tv series & movies in my free time. I love to read books related to history, funny, spy & suspense. 
 
+- ⚡ Worked on large scale applications.
+- ⚡ Also have expertise in GDS API's Integration.
+- ⚡ Expertise in Call Center Contact Flows.
 - 🔭 Build many web scrappers for data scrapping using Python & PHP.
-- 🌱 I always learned something new in my free times. And currently I'm exploring Node.js
+- 🌱 I always learned something new in my free times.
 - 👯 I'm looking to collaborate on a project that can provide ease to developers. I want to automate common tasks of programming. So that we don't need to repeat ourselves for the same tasks each time.
 - 💬 If you have project for me or you need any help related to programming or logic building, or need any suggestion related to your career development you can contact me.
 - 📫 Email me at: [zartashzulfiqar@gmail.com](mailto:zartashzulfiqar@gmail.com).
-- ⚡ The interesting but maybe stupid fact is I always learn a lot of things at the same time & switches a lot between different topics instead of focusing on one thing. In my opinion it's stupid, maybe you have different opinion.
--  ⚡ One more interesting fact is even after 7 years of career I'm trying to push my limits so that I can see myself where can I reach? I have stopped myself first, but now I have sacrificed my comfort zone to see my limits where it can lead me?
-
-My Tech Stack:
-<details>
-  <summary>PHP</summary>
-  - Custom
-  - Laravel
-  - Codeigniter
-</details>
+- ⚡ Passion about technology. Learning new things every day. 
 
 <details>
-  <summary>Javascript</summary>
-  - Vue.js
-  - React
-  - jQuery
-  - jQuery UI
-  - Bootstrap Calendar
-  - Custom Calendar Plugin
-  - Ajax
-  - JSON
-  - Node.js
+  <summary>My Tech Stack:</summary>
+
+  - PHP: Laravel, Codeigniter, Custom
+  - Javascript: Vue.js, Node.js, React, jQuery, jQuery UI, Ajax, JSON
+  - Databases: MySQL, SQLite, MongoDB
+  - HTML
+  - CSS: Custom, Bootstrap 3-5, Tailwind CSS
+  - XML
+  - REST APIs
+  - SOAP
+  - Authentication: Basic, Token Based, Oauth, Oauth 2
+  - Genesys Cloud
+  - NICE CXone (inContact Call Center)
+  - Scrapper: Python, PHP, Javascript
+  - Git
+  - Azure Pipelines
+  - Github Actions
 </details>
 
-<details>
-  <summary>Databases</summary>
-  - MySQL
-  - SQLite
-  - MongoDB
-</details>
-- HTML
-<details>
-  <summary>CSS</summary>
-  - Custom
-  - Bootstrap 3-5
-  - Tailwind CSS
-</details>
-- XML
-- REST APIs
-- SOAP
-<details>
-  <summary>Authentication</summary>
-  - Basic
-  - Token Based
-  - Oauth
-  - Oauth 2
-</details>
-- Genesys Cloud
-- NICE CXone (inContact Call Center)
-<details>
-  <summary>Scrapper</summary>
-  - Python
-  - PHP
-  - Javascript
-</details>
-- Git
-- Azure Pipelines
-- Github Actions
+I can also work in: Flutter, React Native
 
-<details>
-  <summary>I can also work in<summary>
-  - Flutter
-  - React Native
-</details>
-    
-<details>
-  <summary>Tools I Use</summary>
-  - Laragon
-  - VS Code
-  - Google Chrome
-  - ConEmu
-  - Cmder
-</details>
-    
-<details>
-  <summary>Worked a little bit / times ago in</summary>
-  - Yii2
-  - VB.NET
-  - Wordpress
-</details>
+Worked a little bit / times ago in: Yii2, VB.NET, Wordpress
+
+Tools I Use: Laragon, VS Code, Google Chrome, ConEmu, Cmder
 
 <p>
   Visitors count<br>
