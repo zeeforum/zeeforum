@@ -13,35 +13,82 @@ I love to write code in my free times also. I also watch tv series & movies in m
 -  ⚡ One more interesting fact is even after 7 years of career I'm trying to push my limits so that I can see myself where can I reach? I have stopped myself first, but now I have sacrificed my comfort zone to see my limits where it can lead me?
 
 My Tech Stack:
-- PHP (Laravel, Codeigniter, Custom)
-- Javascript (Vue.js, React, jQuery, jQuery UI, Bootstrap Calendar, Custom Calendar Plugin, Ajax, JSON, Node.js, Custom)
-- Databases (SQLite, MySQL)
+<details>
+  <summary>PHP</summary>
+  - Custom
+  - Laravel
+  - Codeigniter
+</details>
+
+<details>
+  <summary>Javascript</summary>
+  - Vue.js
+  - React
+  - jQuery
+  - jQuery UI
+  - Bootstrap Calendar
+  - Custom Calendar Plugin
+  - Ajax
+  - JSON
+  - Node.js
+</details>
+
+<details>
+  <summary>Databases</summary>
+  - MySQL
+  - SQLite
+  - MongoDB
+</details>
 - HTML
-- CSS (Bootstrap 3-5, Tailwind CSS, Custom)
+<details>
+  <summary>CSS</summary>
+  - Custom
+  - Bootstrap 3-5
+  - Tailwind CSS
+</details>
 - XML
 - REST APIs
 - SOAP
-- Authentication (Basic, Oauth, Oauth 2 and many more)
+<details>
+  <summary>Authentication</summary>
+  - Basic
+  - Token Based
+  - Oauth
+  - Oauth 2
+</details>
 - Genesys Cloud
-- Scrapper (Python, PHP, Javascript)
+- NICE CXone (inContact Call Center)
+<details>
+  <summary>Scrapper</summary>
+  - Python
+  - PHP
+  - Javascript
+</details>
 - Git
 - Azure Pipelines
 - Github Actions
 
-Worked a little bit / times ago in:
-- Yii2
-- VB.NET
-- Wordpress
-
-I can also work in:
-- Flutter
-- React Native
-
-Tools I use:
-
-- Laragon
-- VS Code
-- Google Chrome
+<details>
+  <summary>I can also work in<summary>
+  - Flutter
+  - React Native
+</details>
+    
+<details>
+  <summary>Tools I Use</summary>
+  - Laragon
+  - VS Code
+  - Google Chrome
+  - ConEmu
+  - Cmder
+</details>
+    
+<details>
+  <summary>Worked a little bit / times ago in</summary>
+  - Yii2
+  - VB.NET
+  - Wordpress
+</details>
 
 <p>
   Visitors count<br>
